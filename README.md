@@ -26,3 +26,4 @@ DJANGO WITH MYSQL CONNECTION (MYSQL COMMANDS DATABASE):
        
       1.sql migrate appname 0001-----sql code shows
       
+----------
